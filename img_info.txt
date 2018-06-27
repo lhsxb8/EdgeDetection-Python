@@ -1,0 +1,3 @@
+Size = 24.2KB
+Dimensions = 648*401
+Floder path = D:\python Work\ImgTest01
